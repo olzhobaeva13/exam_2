@@ -5,3 +5,4 @@ def func(a, b, c):
         return result
     except:
         return 'error'
+#я делала, но забыла закоммитить
